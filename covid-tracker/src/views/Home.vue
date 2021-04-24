@@ -42,7 +42,7 @@ export default {
       dataDate: '',
       status: {},
       countries: [],
-      loadingImage: require('../assets/hourglass.gif'),
+      // loadingImage: require('../assets/hourglass.gif'),
     }
   },
   methods: {
